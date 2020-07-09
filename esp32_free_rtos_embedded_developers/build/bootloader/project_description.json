@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/vikrant/wifi/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/vikrant/wifi/esp/RTOS_Session/build/bootloader",
+    "config_file":        "/home/vikrant/wifi/esp/RTOS_Session/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.2-dev-1126-gd85d3d969",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/vikrant/wifi/esp/esp-idf/components/efuse/Kconfig;/home/vikrant/wifi/esp/esp-idf/components/esp32/Kconfig;/home/vikrant/wifi/esp/esp-idf/components/esp_common/Kconfig;/home/vikrant/wifi/esp/esp-idf/components/log/Kconfig;/home/vikrant/wifi/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/vikrant/wifi/esp/esp-idf/components/bootloader/Kconfig.projbuild;/home/vikrant/wifi/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/home/vikrant/wifi/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/vikrant/wifi/esp/esp-idf/components/bootloader", "/home/vikrant/wifi/esp/esp-idf/components/bootloader_support", "/home/vikrant/wifi/esp/esp-idf/components/efuse", "/home/vikrant/wifi/esp/esp-idf/components/esp32", "/home/vikrant/wifi/esp/esp-idf/components/esp_common", "/home/vikrant/wifi/esp/esp-idf/components/esp_rom", "/home/vikrant/wifi/esp/esp-idf/components/esptool_py", "/home/vikrant/wifi/esp/esp-idf/components/log", "/home/vikrant/wifi/esp/esp-idf/components/bootloader/subproject/main", "/home/vikrant/wifi/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/home/vikrant/wifi/esp/esp-idf/components/partition_table", "/home/vikrant/wifi/esp/esp-idf/components/soc", "/home/vikrant/wifi/esp/esp-idf/components/spi_flash", "/home/vikrant/wifi/esp/esp-idf/components/xtensa", "" ]
+}
