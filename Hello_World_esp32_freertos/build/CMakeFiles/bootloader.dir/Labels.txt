@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/vikrant/wifi/esp/RTOS_Session/build/CMakeFiles/bootloader
+/home/vikrant/wifi/esp/RTOS_Session/build/CMakeFiles/bootloader.rule
+/home/vikrant/wifi/esp/RTOS_Session/build/CMakeFiles/bootloader-complete.rule
+/home/vikrant/wifi/esp/RTOS_Session/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/vikrant/wifi/esp/RTOS_Session/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/vikrant/wifi/esp/RTOS_Session/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/vikrant/wifi/esp/RTOS_Session/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/vikrant/wifi/esp/RTOS_Session/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/vikrant/wifi/esp/RTOS_Session/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/vikrant/wifi/esp/RTOS_Session/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
